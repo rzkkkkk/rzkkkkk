@@ -25,4 +25,4 @@
 
 <h2> GitHub Stats </h2>
 
-[rzkkkkk's github stats](https://github-readme-stats.vercel.app/api?username=rzkkkkk&show_icons=true&theme=tokyonight)
+![rzkkkkk's github stats](https://github-readme-stats.vercel.app/api?username=rzkkkkk&show_icons=true&theme=tokyonight)
