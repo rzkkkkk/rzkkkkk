@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1009527303912570991/1023038526222254080/GIF_-_Neon_RP.gif)](https://google.com/)
+[![MasterHead](https://i.pinimg.com/originals/e9/4e/cc/e94ecc52085290ce68694ce44fa16974.gif)](https://google.com/)
 
 
 <h1 align="center">Heyyy, im rzkkkkk</h1>
