@@ -2,15 +2,16 @@
 
 
 <h1 align="center">Heyyy, im rzkkkkk</h1>
-<h1 align="center">When not developing fivem scripts, im developing real life traumas</h1>
-<h1 align="center">When not developing traumas, i go jim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="rzkkkkk" /> </p>
+
+### When not developing fivem scripts im developing irl traumas
 
 <br>
 
-- 🌴 My FiveM Server - https://discord.gg/neoncity
+- 🌴 My FiveM Server >> https://discord.gg/neoncity
 - 🧰 FiveM Pseudo-Dev
-- 📍 Based in Fleetwood, England // Living in Porto, Portugal
+- 📍  Based in Fleetwood, England // Living in Porto, Portugal
+- 💻 Backend Developer
 
 
 <br>
