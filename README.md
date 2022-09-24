@@ -4,7 +4,7 @@
 <h1 align="center">Heyyy, im rzkkkkk</h1>
 <h1 align="center">When not developing fivem scripts, im developing real life traumas</h1>
 <h1 align="center">When not developing traumas, i go jim</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="rzkkkkk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="rzkkkkk" /> </p>
 
 <br>
 
