@@ -9,9 +9,7 @@
 <br>
 
 - 🌴 My FiveM Server >> https://discord.gg/neoncity
-- 🧰 FiveM Pseudo-Dev
 - 📍  Based in Fleetwood, England // Living in Porto, Portugal
-- 💻 Backend Developer
 
 
 <br>
