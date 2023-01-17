@@ -8,7 +8,6 @@
 
 <br>
 
-- 🌴 My FiveM Server >> https://discord.gg/neoncity
 - 📍  Based in Fleetwood, England // Living in Porto, Portugal
 
 
