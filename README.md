@@ -8,7 +8,7 @@
 
 <br>
 
-- 📍  Based in Fleetwood, England // Living in Porto, Portugal
+- 📍  Living in Porto, Portugal
 
 
 <br>
