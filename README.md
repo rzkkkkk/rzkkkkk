@@ -1,4 +1,4 @@
-[![MasterHead]([https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://google.com/)
+[![MasterHead]([[https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif))](https://google.com/)
 
 ### When im not playing with code im playing myself 
 
