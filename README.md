@@ -1,4 +1,4 @@
-[![MasterHead]([https://wallpaperaccess.com/full/6682744.gif](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif))](https://google.com/)
+[![MasterHead]([https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://google.com/)
 
 ### When im not playing with code im playing myself 
 
