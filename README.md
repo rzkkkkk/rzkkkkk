@@ -1,7 +1,9 @@
 [![MasterHead](https://wallpaperaccess.com/full/6682744.gif)](https://google.com/)
 
 
-### When im not playing with code im playing myself
+### When im not playing with code im playing myself 
+
+## Not as active as i once was
 
 <br>
 
