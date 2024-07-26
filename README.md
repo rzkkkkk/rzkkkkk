@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/6682744.gif)](https://google.com/)
+[![MasterHead](https://i.imgur.com/X79qlEl.gif)](https://google.com/)
 
 
 <h1 align="center">Hey, im Vasco, mostly known in the Portuguese FiveM community as rzk</h1>
