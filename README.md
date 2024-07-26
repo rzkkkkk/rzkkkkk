@@ -13,7 +13,7 @@
 
 <br>
 
-## <h2> Language & Tools </h2>
+## Language & Tools
 
         
 <img style="border-radius: 10px;" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-<br>
 
 ## <h2> GitHub Stats </h2>
 
